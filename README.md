@@ -14,7 +14,7 @@ Then navigate into the repo, and run:
 To run the server:
   `node index.js`
   
-The server will be running at: http://localhost:4444
+The server will be running at: http://localhost:4444/api
   
 Note: To get the app to work correctly, you will need to:
   * Install postgresql
