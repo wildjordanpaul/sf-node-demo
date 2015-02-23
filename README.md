@@ -1,5 +1,5 @@
 # sf-node-demo
-A Basic Node.js REST server from demo given 2/20/2015 at Simplifile
+A Basic Node.js REST server from demo given 2/20/2015
 
 To get things running locally, you will need to install node (or io.js):
 * For io.js - https://iojs.org
